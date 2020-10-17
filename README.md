@@ -43,7 +43,7 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-magicbit=github:emakefun/pxt-magicbit
+magicbit=github:koalakia/pxt-magicbit
 ```
 
 # Please Contact Us
